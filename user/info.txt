@@ -8,7 +8,6 @@ git repo:
    https://github.com/sergeybabann/react-way-of-samurai_1.0_social_network_01-original.babann/tree/develop
 
 ----- lessons complete -----
-15 lessons: comlete
+16 lessons: comlete
 
-video 16 stop: 
-
+video 17 stop:
