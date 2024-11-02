@@ -11,4 +11,4 @@ git repo:
 18 lesson: complete
 
 -- video 19 --
-time stop:
+time stop: 14.51
